@@ -4,7 +4,7 @@ Product Based Capstone Project Bangkit 2024
 
 ## File APK
 
-To use the application please download the .apk file at the following [link](https://drive.google.com/file/d/1eabL50OYK5P7HLiU7dKNOcwhQxOcV-CP/view?usp=sharing)
+To use the application please download the .apk file at the following [Click Here](https://drive.google.com/file/d/1eabL50OYK5P7HLiU7dKNOcwhQxOcV-CP/view?usp=sharing)
 
 ## Screenshots Product
 
@@ -30,6 +30,7 @@ Users can search and learn more about the history of various type of Batik, incl
 - [OkHttp3](https://square.github.io/okhttp/)
 - [Fragment](https://developer.android.com/guide/fragments?hl=id)
 - [Figma](https://www.figma.com/)
+- [Postman](https://www.postman.com/)
 
 ## Color Pallete
 
