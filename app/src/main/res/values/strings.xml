@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Batikpedia</string>
+    //Headings
+    <string name="heading_one">Welcome to Batikpedia</string>
+    <string name="heading_two">Only by Camera</string>
+    <string name="heading_three">Learn the History</string>
+    <string name="heading_fourth">Where to Buy it ?</string>
+
+    //Description
+    <string name="desc_one">Come on, tell us what kind of batik you wear.</string>
+    <string name="desc_two">You can identify the batik pattern simply by using a camera to snap a photo of your batik.</string>
+    <string name="desc_three">You may learn more about the batik you wear, including its original provenance and other interesting details.</string>
+    <string name="desc_fourth">You can locate MSMEs that sell batik designs according to your preferences.</string>
+    <string name="skip">Skip</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="know_your_batik">Analyze It Now !</string>
+    <string name="resultBatik">Nama Motif</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title1">Analyze</string>
+    <string name="title2">Learn</string>
+    <string name="umkm">UMKM Penyedia:</string>
+    <string name="desc">Penjelasan:</string>
+    <string name="title3">Favourite</string>
+    <string name="explainBatik">Penjelasan</string>
+    <string name="NotFound">Await an update from us while we work to expand the batik dataset at this time. Stay tune Batik Lovers :)</string>
+</resources>

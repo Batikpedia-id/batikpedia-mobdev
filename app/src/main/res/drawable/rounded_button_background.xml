@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/buttontext" /> <!-- Ganti dengan warna yang diinginkan -->
+    <corners android:radius="12dp" /> <!-- Menambahkan sudut bulat -->
+</shape>
