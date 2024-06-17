@@ -4,10 +4,13 @@ Product Based Capstone Project Bangkit 2024
 
 ## File APK
 
-To use the application please download the .apk file at the following
+To use the application please download the .apk file at the following [link](https://drive.google.com/file/d/1eabL50OYK5P7HLiU7dKNOcwhQxOcV-CP/view?usp=sharing)
 
 ## Screenshots Product
 
+<img width="500" alt="user  interface" src="https://github.com/Batikpedia-id/batikpedia-mobdev/blob/main/1.png">
+<img width="500" alt="user  interface" src="https://github.com/Batikpedia-id/batikpedia-mobdev/blob/main/2.png">
+<img width="500" alt="user  interface" src="https://github.com/Batikpedia-id/batikpedia-mobdev/blob/main/3.png">
 
 ## Features
 
